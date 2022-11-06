@@ -1,0 +1,32 @@
+.categorielistandroles {
+    margin-top: 20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 0 0 20px #aaa;
+}
+
+.categorielistandroles .heading {
+    border: solid 0px #aaa;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #eee;
+}
+
+.categorielistandroles .roleinformation {
+    border: solid 0px #aaa;
+    width: 340px;
+    padding-left: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    background-color: #eee;
+}
+
+.categorielistandroles .userinformation {
+    border: solid 0px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.categorielistandroles .row {
+    margin-left: 10px;
+}
